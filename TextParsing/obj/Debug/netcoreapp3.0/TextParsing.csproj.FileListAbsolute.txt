@@ -1,0 +1,17 @@
+C:\Users\rarai\source\repos\TextParsing\TextParsing\bin\Debug\netcoreapp3.0\TextParsing.exe
+C:\Users\rarai\source\repos\TextParsing\TextParsing\bin\Debug\netcoreapp3.0\TextParsing.deps.json
+C:\Users\rarai\source\repos\TextParsing\TextParsing\bin\Debug\netcoreapp3.0\TextParsing.runtimeconfig.json
+C:\Users\rarai\source\repos\TextParsing\TextParsing\bin\Debug\netcoreapp3.0\TextParsing.runtimeconfig.dev.json
+C:\Users\rarai\source\repos\TextParsing\TextParsing\bin\Debug\netcoreapp3.0\TextParsing.dll
+C:\Users\rarai\source\repos\TextParsing\TextParsing\bin\Debug\netcoreapp3.0\TextParsing.pdb
+C:\Users\rarai\source\repos\TextParsing\TextParsing\obj\Debug\netcoreapp3.0\TextParsing.csprojAssemblyReference.cache
+C:\Users\rarai\source\repos\TextParsing\TextParsing\obj\Debug\netcoreapp3.0\TextParsing.AssemblyInfoInputs.cache
+C:\Users\rarai\source\repos\TextParsing\TextParsing\obj\Debug\netcoreapp3.0\TextParsing.AssemblyInfo.cs
+C:\Users\rarai\source\repos\TextParsing\TextParsing\obj\Debug\netcoreapp3.0\TextParsing.dll
+C:\Users\rarai\source\repos\TextParsing\TextParsing\obj\Debug\netcoreapp3.0\TextParsing.pdb
+C:\Users\rarai\source\repos\TextParsing\TextParsing\bin\Debug\netcoreapp3.0\DnsClient.dll
+C:\Users\rarai\source\repos\TextParsing\TextParsing\bin\Debug\netcoreapp3.0\MongoDB.Bson.dll
+C:\Users\rarai\source\repos\TextParsing\TextParsing\bin\Debug\netcoreapp3.0\MongoDB.Driver.dll
+C:\Users\rarai\source\repos\TextParsing\TextParsing\bin\Debug\netcoreapp3.0\MongoDB.Driver.Core.dll
+C:\Users\rarai\source\repos\TextParsing\TextParsing\bin\Debug\netcoreapp3.0\SharpCompress.dll
+C:\Users\rarai\source\repos\TextParsing\TextParsing\obj\Debug\netcoreapp3.0\TextParsing.csproj.CopyComplete
